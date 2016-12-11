@@ -10,7 +10,11 @@ import id2212.homework3.jdbc.client.Client;
 
 /*
  * this is the MarketPlace Server
+ * this is the main class for the client
+ * @author Muhammed Ahad
+ * e-mail: ahad3112@yahoo.com
  */
+
 
 public class MarketPlace {
 	public static final int REGISTRY_PORT_NUMBER = 1099;

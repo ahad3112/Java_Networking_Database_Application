@@ -5,6 +5,12 @@ import java.rmi.Naming;
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
 
+/*
+ * this is the sever for bank
+ * @author Muhammed Ahad
+ * e-mail: ahad3112@yahoo.com
+ */
+
 public class BankServer {
 	public static final int REGISTRY_PORT_NUMBER = 1099;
 	public static final String HOST = "localhost";

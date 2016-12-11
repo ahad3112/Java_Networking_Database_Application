@@ -6,13 +6,11 @@ import id2212.homework3.jdbc.marketServer.MarketInterface;
 
 /*
  * this is the main class for the client
+ * @author Muhammed Ahad
+ * e-mail: ahad3112@yahoo.com
  */
 
-/*
- * Important... Only get access by the Interface...cast by Interface
- * compile: go to src folder: javac id2212/homework3/jdbc/*.java
- * run: java id2212.homework3.jdbc.Client
- */
+
 public class Client {
 	public static final int REGISTRY_PORT_NUMBER = 1099;
 	public static final String HOST = "localhost";
